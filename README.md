@@ -4,7 +4,7 @@ This project performs an exploratory data analysis (EDA) on video game sales dat
 
 ## Dataset
 
-The dataset used in this analysis is the ["Video Game Sales" dataset from Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), which contains sales data for over 16,500 video games with sales greater than 100,000 copies, scraped from vgchartz.com. It includes 11 columns: Rank, Name, Platform, Year, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, and Global_Sales, covering game titles, platforms, release years, genres, publishers, and sales figures for North America, Europe, Japan, other regions, and globally. The dataset is included in the `data/vgsales.csv` file.
+The dataset used in this analysis is the ["Video Game Sales" dataset from Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), which contains sales data for over 16,500 video games with sales greater than 100,000 copies, scraped from vgchartz.com. It includes 11 columns: Rank, Name, Platform, Year, Genre, Publisher, NA_Sales, EU_Sales, JP_Sales, Other_Sales, and Global_Sales, covering game titles, platforms, release years, genres, publishers, and sales figures for North America, Europe, Japan, other regions, and globally. The dataset is included in the `vgsales.csv` file.
 
 ## Installation
 
