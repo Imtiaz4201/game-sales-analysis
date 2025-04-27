@@ -42,7 +42,7 @@ The repository is organized as follows:
 
 | File/Folder            | Description                                      |
 |------------------------|--------------------------------------------------|
-| `data/vgsales.csv`     | The dataset used for analysis.                   |
-| `game_sales_eda.ipynb` | Jupyter notebook with EDA code and visualizations. |
+| `vgsales.csv`     | The dataset used for analysis.                   |
+| `EDA.ipynb`       | Jupyter notebook with EDA code and visualizations. |
 | `README.md`            | This file, providing project overview and instructions. |
 
